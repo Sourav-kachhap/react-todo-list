@@ -1,12 +1,12 @@
-# React + Vite
+How to Use the To-Do List
+Add a task:
+Type your task into the input field and click the "Add" button.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Mark as completed:
+Click on a task to toggle it as completed (or to undo completion).
 
-Currently, two official plugins are available:
+Edit a task:
+Click the "Edit" button next to a task, update the text, then click "Save".
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Delete a task:
+Click the "Delete" button next to any task you want to remove.
